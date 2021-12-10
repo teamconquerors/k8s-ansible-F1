@@ -1,7 +1,7 @@
 
-#  **<span style="color:green">Landmark Technology.</span>**
-### **<span style="color:green">Contacts: +1437215 24 83   +1 437 215 2483 <br> WebSite : <http://mylandmarktech.com/></span>**
-### **Email: mylandmarktech@gmail.com         mylandmarktech@gmail.com**
+#  **<span style="color:green">Fred.</span>**
+### **<span style="color:green">Contacts: Email-Me </span>**
+### **Email: xhell44@gmail.com**
 
 
 ## **Agenda: Infrastructure Automation Using Terraform and Ansible With Dynamic Inventory to configure a Kubernetes Cluster**
